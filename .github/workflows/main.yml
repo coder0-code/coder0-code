@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: lolpc700
+          user: coder0-code
           template: classic
           base: header, repositories, metadata
           config_timezone: Europe/Stockholm
